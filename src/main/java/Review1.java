@@ -17,10 +17,11 @@ public class Review1 {
 		int k=5;
 
 		System.out.println(h/k);
+		System.out.println(h%k);
 	}
 
 	public static void q3() {
-		System.out.println("Hello\nHello Again");
+		System.out.println("Hello\nHello again");
 	}
 
 	public static void q4() {
